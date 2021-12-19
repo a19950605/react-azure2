@@ -6,7 +6,7 @@ function App() {
 		<div className="App">
 			<div>azure deploy test</div>
 			<div>second test</div>
-			<div>test3</div>
+			<div>test</div>
 		</div>
 	);
 }
